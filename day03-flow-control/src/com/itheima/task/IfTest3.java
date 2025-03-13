@@ -10,11 +10,15 @@ public class IfTest3 {
         int input1 = sc.nextInt();
         int input2 = sc.nextInt();
         int input3 = sc.nextInt();
-        int input4 = sc.nextInt();
-        int input5 = sc.nextInt();
-        int input6 = sc.nextInt();
-
-        
+        int min = 0;
+        if (input1 <= input2) {
+            min = input1;
+        }else if (input2 <= input3) {
+            min = input2;
+        }else {
+            min = input3;
+        }
+        System.out.println(min);
 
 
     }
