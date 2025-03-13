@@ -10,6 +10,9 @@ public class IfTest3 {
         int input1 = sc.nextInt();
         int input2 = sc.nextInt();
         int input3 = sc.nextInt();
+        int input4 = sc.nextInt();
+        int input5 = sc.nextInt();
+        int input6 = sc.nextInt();
 
         
 
