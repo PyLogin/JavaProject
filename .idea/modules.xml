@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/day06-practice/day06-practice.iml" filepath="$PROJECT_DIR$/day06-practice/day06-practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/day07-oop/day07-oop.iml" filepath="$PROJECT_DIR$/day07-oop/day07-oop.iml" />
       <module fileurl="file://$PROJECT_DIR$/day08-api/day08-api.iml" filepath="$PROJECT_DIR$/day08-api/day08-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day09-atmsystem/day09-atmsystem.iml" filepath="$PROJECT_DIR$/day09-atmsystem/day09-atmsystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/javase.iml" filepath="$PROJECT_DIR$/javase.iml" />
     </modules>
   </component>
